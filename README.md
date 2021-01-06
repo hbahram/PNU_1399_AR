@@ -12,7 +12,7 @@
   
 ------------------
 
--[مدرک جاوا اسکریپت](https://github.com/hbahram/PNU_3991_AR/blob/main/CamScanner%2011-05-2020%2010.49.01_1.pdf)
+-[مدرک جاوا اسکریپت](https://github.com/hbahram/PNU_3991_AR/blob/main/JavaScript.pdf)
 
 -[بچ ورک](https://github.com/hbahram/PNU_3991_AR/blob/main/patchwork20210101.pdf)
 -------------------
