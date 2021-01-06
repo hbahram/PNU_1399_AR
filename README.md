@@ -5,9 +5,9 @@
 ---
 - [github account](https://github.com/hbahram/)
   : حساب گیت هاب
-- [resume](https://hbahram.github.io/)
+- [resume](https://hbahram.github.io/ressme/)
   : رزومه
-- [SOP](https://hbahram.github.io/SOP/)
+- [SOP](https://hbahram.github.io/sop/)
   :انگیزنه نامه 
   
 ------------------
