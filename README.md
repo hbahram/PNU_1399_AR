@@ -5,7 +5,7 @@
 ---
 - [github account](https://github.com/hbahram/)
   : حساب گیت هاب
-- [resume](https://hbahram.github.io/)
+- [resume](https://hbahram.github.io/resume/)
   : رزومه
 - [SOP](https://hbahram.github.io/sop/)
   :انگیزنه نامه 
@@ -17,7 +17,6 @@
 -[بچ ورک](https://github.com/hbahram/PNU_3991_AR/blob/main/patchwork20210101.pdf)
 -------------------
 حجت بهزام آبادی
-
 
 ------------------
 ## Winter Semester Courses 1399/2020
