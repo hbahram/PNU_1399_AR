@@ -12,9 +12,9 @@
   
 ------------------
 
--[مدرک جاوااسکریپت](https://github.com/hbahram/PNU_3991_AR/blob/main/java script/pdf)
+-[مدرک جاوااسکریپت](https://github.com/hbahram/PNU_3991_AR/blob/main/java script.pdf/)
 
--[بچ ورک](https://github.com/hbahram/PNU_1399_AR/blob/main/patchwork20210101.pdf)
+-[بچ ورک](https://github.com/hbahram/PNU_1399_AR/blob/main/patchwork20210101.pdf/)
 -------------------
 حجت بهزام آبادی
 
