@@ -12,7 +12,7 @@
   
 ------------------
 
-- [مدرک جاوا اسکریپت](https://github.com/hbahram/PNU_3991_AR/blob/main/javascript pdf/)
+- [مدرک جاوا اسکریپت](https://github.com/hbahram/PNU_3991_AR/blob/main/javascriptpdf/)
 
 - [بچ ورک](https://github.com/hbahram/PNU_1399_AR/blob/main/patchwork20210101.pdf/)
 -------------------
